@@ -2,4 +2,18 @@ pandas
 numpy
 seaborn
 matplotlib
+os
+shutil
+cv2
+datetime
+#Image
+#ImageDraw
+PIL
+ultralytics
+csv
+torch
+timm
+torchvision
+math
+json
 -e .
